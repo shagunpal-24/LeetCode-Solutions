@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
