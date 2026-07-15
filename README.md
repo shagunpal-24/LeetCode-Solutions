@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Math
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
