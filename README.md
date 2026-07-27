@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/shagunpal-24/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
